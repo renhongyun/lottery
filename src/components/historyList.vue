@@ -94,7 +94,7 @@ watch(historyList, () => {
 
 .name {
   display: inline-block;
-  width: 40px;
+  width: 56px;
   text-align: right;
   padding-right: 5px;
 }
